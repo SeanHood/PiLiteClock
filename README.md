@@ -10,4 +10,4 @@
 	
 ## PiLite
 
-See: https://github.com/CisecoPlc/PiLite
+Documentation: http://openmicros.org/index.php/articles/94-ciseco-product-documentation/raspberry-pi/280-b040-pi-lite-beginners-guide
